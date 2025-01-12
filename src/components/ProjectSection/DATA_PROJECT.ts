@@ -20,7 +20,7 @@ export const DATA_PROJECT: IProject[] = [
     tag: 'Website',
     desc: 'Dream Stay merupakan sebuah website booking hotel.',
     img: '/img/ds.png',
-    url:','
+    url:'https://dreamstay.my.id',
   },
   
 ];
