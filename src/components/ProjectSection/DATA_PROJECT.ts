@@ -2,39 +2,26 @@ import { IProject } from './ProjectCard';
 
 export const DATA_PROJECT: IProject[] = [
   {
-    title: 'Slicing Frontend pake next js',
-    tag: 'Frontend',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. ',
-    img: 'https://images.unsplash.com/photo-1603871165848-0aa92c869fa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80',
+    title: 'Up Green',
+    tag: 'UI/UX Figma',
+    desc: 'Up Green merupakan desain UI/UX layanan penjemputan sampah daur ulang berbasis mobile. ',
+    img: '/img/upgreen.png',
+    url:'https://www.figma.com/proto/2PT22gk0LMbvZV6LOvHPmR/layanan-sampah-IMK?node-id=0-1&t=dPHO2chl32Mrz9cw-1',
   },
   {
-    title: 'Slicing Frontend pake next js',
-    tag: 'Frontend',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo rerum architecto velit quo ex beatae cumque quibusdam totam dolores laudantium voluptatem, doloremque nobis sapiente labore aperiam nulla blanditiis quod dolore',
-    img: 'https://images.unsplash.com/photo-1603871165848-0aa92c869fa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80',
+    title: 'Pure Green',
+    tag: 'Apps',
+    desc: 'Pure Green adalah aplikasi pemesanan jasa layanan penjemputan  sampah daur ulang berbasis mobile. Pure Green memiliki makna kemurnian dan kehijauan.',
+    img: '/img/pg.png',
+    url:'https://linktr.ee/puregreenunsiq',
   },
   {
-    title: 'Slicing Frontend pake next js',
-    tag: 'Frontend',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo rerum architecto velit quo ex beatae cumque quibusdam totam dolores laudantium voluptatem, doloremque nobis sapiente labore aperiam nulla blanditiis quod dolore',
-    img: 'https://images.unsplash.com/photo-1603871165848-0aa92c869fa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80',
+    title: 'Dream Stay',
+    tag: 'Website',
+    desc: 'Dream Stay merupakan sebuah website booking hotel.',
+    img: '/img/ds.png',
+    url:','
   },
-  {
-    title: 'Slicing Frontend pake next js',
-    tag: 'Frontend',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo rerum architecto velit quo ex beatae cumque quibusdam totam dolores laudantium voluptatem, doloremque nobis sapiente labore aperiam nulla blanditiis quod dolore',
-    img: 'https://images.unsplash.com/photo-1603871165848-0aa92c869fa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80',
-  },
-  {
-    title: 'Slicing Frontend pake next js',
-    tag: 'Frontend',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo rerum architecto velit quo ex beatae cumque quibusdam totam dolores laudantium voluptatem, doloremque nobis sapiente labore aperiam nulla blanditiis quod dolore',
-    img: 'https://images.unsplash.com/photo-1603871165848-0aa92c869fa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80',
-  },
-  {
-    title: 'Slicing Frontend pake next js',
-    tag: 'Frontend',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo rerum architecto velit quo ex beatae cumque quibusdam totam dolores laudantium voluptatem, doloremque nobis sapiente labore aperiam nulla blanditiis quod dolore',
-    img: 'https://images.unsplash.com/photo-1603871165848-0aa92c869fa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80',
-  },
+  
 ];
+

@@ -9,7 +9,7 @@ export function NavbarComponents() {
     <div className="w-full fixed z-50 border-b shadow-sm">
       <Navbar fluid rounded className="text-[var(--primary-color)] top-0  container">
         <Navbar.Brand as={Link} href="/">
-          <span className="self-center whitespace-nowrap text-3xl font-medium dark:text-white uppercase">User name</span>
+          <span className="self-center whitespace-nowrap text-3xl font-medium dark:text-white uppercase">Intan Ramadhany</span>
         </Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse>
@@ -23,3 +23,4 @@ export function NavbarComponents() {
     </div>
   );
 }
+
