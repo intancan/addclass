@@ -8,7 +8,7 @@ export default function HeroSection() {
         <div className="flex flex-col justify-center py-4 md:p-6 text-center rounded-sm lg:max-w-md xl:max-w-4xl lg:text-left ">
           <div className="space-y-6">
             <h1 className="text-5xl font-medium leading-none sm:text-7xl uppercase">
-              Hi i'm <span className="text-[var(--primary-color)]">Intan Ramadhany</span>
+              Hi i&apos;m <span className="text-[var(--primary-color)]">Intan Ramadhany</span>
             </h1>
             <h2 className="text-5xl  font-medium leading-none sm:text-5xl uppercase text-[var(--primary-color)]">Web Developer</h2>
             <p className="!mt-3 mb-8 text-xl sm:mb-12 uppercase font-medium md:max-w-2xl">
